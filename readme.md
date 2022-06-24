@@ -1,6 +1,6 @@
 # Sample-earth
 
-Sample the earth using an icosphere.
+Sample the earth using an [icosphere](https://github.com/vedranaa/icosphere).
 
 ## tl;dr
 
