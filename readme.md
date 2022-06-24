@@ -7,7 +7,9 @@ Sample the earth using an [icosphere](https://github.com/vedranaa/icosphere).
 ```
 from sampleearth import sample
 
-(gdf, sampleDistance) = sample(n=25)
+gdf = sample_to_gdf(n=25)
+
+points = sample(25)
 ```
 
 ## output
