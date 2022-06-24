@@ -1,2 +1,9 @@
 *.html
-
+__pycache__
+**/__pycache__
+.pytest*
+.coverage
+htmlcov
+**/egg-info/**
+**/*.egg-info/**
+dist/
