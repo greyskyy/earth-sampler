@@ -1,0 +1,10 @@
+name: sample-earth
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - geopandas
+  - python
+  - pip:
+    - icosphere
